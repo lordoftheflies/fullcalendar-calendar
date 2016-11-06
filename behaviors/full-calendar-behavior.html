@@ -373,6 +373,14 @@
       previous: function() {
         this._calendar.fullCalendar('prev');
       },
+      
+      /**
+       * Select today.
+       * [Documentation](https://fullcalendar.io/docs/current_date/today/)
+       */
+      today: function (event) {
+        this._calendar.fullCalendar('today');
+      },
 
       /**
        * Immediately switches to a different view.
