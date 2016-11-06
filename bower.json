@@ -14,7 +14,7 @@
   ],
   "main": "fullcalendar-calendar.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/sorin-davidoi/fullcalendar-calendar/",
+  "homepage": "https://github.com/lordoftheflies/fullcalendar-calendar/",
   "ignore": [
     "/.*",
     "/test/"
