@@ -1,7 +1,8 @@
 {
   "name": "fullcalendar-calendar",
   "authors": [
-    "Sorin Davidoi <sorin.davidoi@gmail.com>"
+    "Sorin Davidoi <sorin.davidoi@gmail.com>",
+    "László Hegedűs <heglas11@gmail.com"
   ],
   "description": "Web Component wrapper for FullCalendar.",
   "keywords": [
